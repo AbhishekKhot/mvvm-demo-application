@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">movieapp</string>
+    <string name="tv_shows">popular shows</string>
+    <string name="recently_added">new shows</string>
+    <string name="tv_episodes">upcoming</string>
+    <string name="textview">Title</string>
+    <string name="all_shows">All Shows</string>
+    <string name="rating">rating</string>
+    <string name="type">type</string>
+</resources>
